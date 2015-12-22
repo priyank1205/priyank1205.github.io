@@ -1,8 +1,11 @@
 p{
 	font-family: Roboto,Helvetica,Sans-serif;
-	font-size: 3 em;
+	font-size: 5 em;
+	text-align: center;
+}
+div{
+
 	position:absolute;
 	top:50%;
 	left:50%;
-	text-align: center;
 }
