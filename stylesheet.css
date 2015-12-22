@@ -1,11 +1,28 @@
+body{
+
+	background-image:url("featured47@wdd2x.jpg");
+}
+
 div{
 
 	position:absolute;
-	top:45%;
-	left:20%;
+	top:30%;
+	left:8%;
+	font-size: 120%
 }
 
 h1{
-	font-family: Roboto,Helvetica,Sans-serif;
+	font-family:Helvetica,Sans-serif;
 	text-align: center;
+}
+
+a{
+
+	text-decoration: none;
+}
+
+img{
+
+	position: relative;
+	top:13px;
 }
