@@ -1,6 +1,6 @@
 body{
 
-	background-image:url("featured47@wdd2x.jpg");
+	background-image:url("img/featured47@wdd2x.jpg");
 }
 
 div{
@@ -19,6 +19,18 @@ h1{
 a{
 
 	text-decoration: none;
+}
+
+a:hover{
+
+	background-color: #eeac6c;
+	border-bottom: 2px solid #2c1da6;
+	padding-bottom:2 px;
+}
+
+a:visited{
+
+	color: #2c1da6;
 }
 
 img{
