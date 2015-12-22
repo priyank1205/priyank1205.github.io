@@ -1,6 +1,7 @@
 body{
 
 	background-image:url("img/featured47@wdd2x.jpg");
+	/*-webkit-filter:blur(2px);*/
 }
 
 div{
@@ -9,6 +10,11 @@ div{
 	top:30%;
 	left:8%;
 	font-size: 120%
+}
+
+.appear{
+
+	
 }
 
 h1{
